@@ -1,0 +1,11 @@
+Percy Jackson,24.00
+Linear Algebra,101.89
+Phoenix King,23.99
+IronMan,158.45
+Chef Ramsey,62.99
+Trade Market,33.99
+Engineering 101,12.99
+Code4Life,50.00
+Code4Life II,100.00
+Code4Life III,200
+Code4Life IV,500
